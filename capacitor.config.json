@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "CameraApp",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}
