@@ -1,6 +1,6 @@
 {
-	"appId": "io.ionic.starter",
-	"appName": "CameraApp",
-	"webDir": "dist",
-	"bundledWebRuntime": false
+  "appId": "com.lucaslima.Memories",
+  "appName": "Memories",
+  "webDir": "public",
+  "bundledWebRuntime": false
 }
